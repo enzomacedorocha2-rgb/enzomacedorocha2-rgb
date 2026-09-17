@@ -33,7 +33,12 @@
 
 | Projeto| Descrição | Principal Tecnologia |
 | --- | --- | --- |
-[Em breve](link) | Vou subir alguns dos meus projetos que tenho prontos| `???`
+[Em breve](link) | Vou subir alguns dos meus projetos que tenho prontos| ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat)![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+[Em breve](link) | Vou subir alguns dos meus projetos que tenho prontos|![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+[Em breve](link) | Vou subir alguns dos meus projetos que tenho prontos|![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+[Em breve](link) | Vou subir alguns dos meus projetos que tenho prontos|![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+[Em breve](link) | Vou subir alguns dos meus projetos que tenho prontos|![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
+
 
 ## Como Falar Comigo
 
